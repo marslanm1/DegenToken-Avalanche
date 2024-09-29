@@ -2,7 +2,7 @@
 # Degen Token (ERC-20): Unlocking the Future of Gaming 🎮
 
 ## Overview
-**Degen Token (DGN)** is an ERC-20 token deployed on the Avalanche Fuji Testnet, developed for Degen Gaming. The token serves as a reward system to enhance player engagement and loyalty by allowing players to earn tokens, redeem rewards, and trade items in the in-game store. This project demonstrates a practical implementation of an ERC-20 token that can integrate seamlessly into the gaming ecosystem.
+**Degen Token (DGN)** is an ERC-20 token deployed on the Avalanche Fuji Testnet, developed for Degen Gaming. The token is a reward system to enhance player engagement and loyalty by allowing players to earn tokens, redeem rewards, and trade items in the in-game store. This project demonstrates a practical implementation of an ERC-20 token that can integrate seamlessly into the gaming ecosystem.
 
 ## Features
 - **Minting New Tokens**: Only the contract owner can mint new tokens and distribute them to players as rewards.
@@ -58,6 +58,3 @@
 
 ## License
 This project is licensed under the MIT License.
-
-## Contact
-For any questions or collaborations, please contact [Your Name] at [Your Email].
